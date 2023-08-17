@@ -1,0 +1,62 @@
+/*google font style*/
+
+* {
+	font-family: 'Roboto', sans-serif;
+}
+
+/*CSS Reset*/
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+/*Name Bold*/
+#ripa {
+	font-weight: bold;
+}
+
+/*Section Heads*/
+#psection {
+	font-weight: bold;
+	color: darkslategray;
+}
+
+#tsection {
+	font-weight: bold;
+	color: darkslategray;
+}
+
+#csection {
+	font-weight: bold;
+	color: darkslategray;
+}
+
+
+/*projects card*/
+
+#dmarket {
+	background-color: paleturquoise;
+}
+
+#appdev {
+	background-color: skyblue;
+}
+
+#webportal {
+	background-color: cornsilk;
+}
+
+/*tools card*/
+
+#frontend {
+	background-color: navajowhite;
+}
+
+#mern {
+	background-color: whitesmoke;
+}
+
+#others {
+	background-color: bisque;
+}
